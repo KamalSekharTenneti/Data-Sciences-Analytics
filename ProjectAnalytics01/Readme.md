@@ -5,3 +5,9 @@ Age: Segment customers based on age groups (e.g., teens, young adults, middle-ag
 Gender: Create segments for male, female, and non-binary customers.
 Income Level: Differentiate customers based on their income levels (e.g., low, middle, high income).
 Location: Segment customers based on geographic regions, cities, or neighborhoods.
+
+
+Customer Behavior Analysis
+Analyze customer purchase patterns, churn rates, and lifetime value.
+Use clustering (K-means) to segment customers based on demographics and purchase history.
+Predict customer churn using machine learning models.
